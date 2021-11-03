@@ -1,10 +1,10 @@
-package com.coursebackend;
+package com.cmabackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CourseMangementAppApplicationTests {
+class CmaBackendApplicationTests {
 
 	@Test
 	void contextLoads() {

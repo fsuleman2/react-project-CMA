@@ -1,13 +1,13 @@
-package com.coursebackend;
+package com.cmabackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CourseMangementAppApplication {
+public class CmaBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CourseMangementAppApplication.class, args);
+		SpringApplication.run(CmaBackendApplication.class, args);
 	}
 
 }
